@@ -1,0 +1,27 @@
+nav {
+    height: 70px;
+    width: 100%;
+    background: #17a2b8;
+    justify-content: space-between !important;
+}
+
+.navbar-brand{
+    font-size: 25px !important;
+    color:white !important;
+    font-weight: bold;
+}
+
+nav a{
+    font-weight: bold;
+    line-height: 10px;
+    text-decoration: none;
+    color: inherit;
+}
+nav a:hover{
+    text-decoration: none;
+    color: inherit;
+}
+nav a svg {
+    vertical-align: middle !important;
+    margin-left: 10px;
+}

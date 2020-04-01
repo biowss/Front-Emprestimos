@@ -1,0 +1,127 @@
+.wrap-fields {
+    width: 100%;
+    margin: auto;
+    padding: auto;
+}
+
+
+.choose-payment-method {
+    margin-top: 6rem !important;
+    margin: auto;
+    display: flex;
+    flex-flow: column;
+    height: 20rem;
+    width: 20rem;
+    justify-content: space-between;
+}
+h2 {
+    font-size: 20px;
+    font-weight: normal;
+    font-style: italic;
+    color: #17a2b8;
+}
+.choose-payment-method p {
+    margin: 0;
+    padding: 0;
+    color: #000000a6;
+}
+.choose-payment-method button {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 0.6rem;
+}
+.choose-payment-method div {
+    display: inherit;
+    flex-flow: inherit;    
+}
+.choose-payment-method div span {
+    text-align: end;
+    font-style: italic;
+    font-size: 16px;
+    padding-right: 0.2rem;
+}
+
+table{
+    margin-top: 6rem !important;
+}
+
+.client-info-table thead{
+    color: #17a2b8;
+    font-style: italic;
+}
+
+.client-info-table td {
+    width: 50%;
+    padding: 0.3rem !important;
+}
+.client-info-table button {
+    width: 30%;
+    font-size: 22px !important;
+}
+
+.client-info-field {
+    text-align: left;
+    padding: 0.5rem;
+    background-color: #0000000f;
+    border-radius: 2px;
+
+}
+.client-info-field strong {
+    color: #00000096;
+}
+
+
+.attachment-field {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    background-color: #0000001f;
+    border-radius: 2px;
+
+}
+
+.attachment-field strong {
+    color: #000000a6;
+}
+.attachment-field strong {
+    color: #000000a6;
+}
+.attachment-field a {
+    text-decoration: none;
+    color: #000000a6;
+    text-decoration: underline;
+}
+.attachment-span {
+    text-align: left;
+    color: #17a2b8;
+    font-style: italic;
+    font-size: 13px;
+}
+
+.blue-text {
+    color: #17a2b8;
+}
+.orange-text {
+    color: #ff9800;
+}
+.green-text {
+    color: #4caf50;
+}
+.dark-text {
+   color: #000000a6; 
+}
+
+.soliciation-end-table div {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    border-radius: 2px;
+}
+
+.background-div {    
+    background-color: #a2a2a130;
+}
+
+.span-custom {
+    font-style: italic;
+}

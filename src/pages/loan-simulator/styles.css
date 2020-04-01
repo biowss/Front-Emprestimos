@@ -1,0 +1,51 @@
+.wrap-fields {
+    width: 100%;
+    margin: auto;
+    padding: auto;
+}
+.wrap-fields p {
+    margin-top: 6rem;
+    color: #17a2b8;
+    font-size: 24px;
+    font-weight: bold;
+}
+.wrap-fields input {
+    width: 20%;
+}
+.input-group {
+    padding: 1rem;
+}
+.table-of-fees {
+    padding-bottom: 6rem;
+}
+.wrap-fields table {
+    margin: auto;
+    width: 60%;
+}
+.wrap-fields h2 {
+    color: #17a2b8;
+}
+.wrap-fields table td{
+    font-size: 14px;
+    width: 20%;
+}
+.footer { 
+    padding-top: 0.6rem;
+    height: 3.3rem; 
+    position: fixed; 
+    bottom:0%;
+    width:100%; 
+    background-color: #17a2b8; 
+    opacity: 1;
+}
+.footer strong {
+    color: white;
+    font-size: 14px;
+    padding-right: 1rem;
+}
+.footer a{
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #ffae07;
+    color: white;
+}
